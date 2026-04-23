@@ -5,7 +5,7 @@
 Študijný odbor: Informatika  
 Školiace pracovisko: Ústav umelej inteligencie (ÚUI)  
 Školiteľ: doc. Ing. Peter Butka, PhD.  
-Konzultanti: Ing. Viera Krešňasková, PhD.; RNDr. Šimon Mackovjak, PhD.  
+Konzultanti: Ing. Viera Krešňáková, PhD.; RNDr. Šimon Mackovjak, PhD.  
 Doménoví experti: RNDr. Jaroslav Chum, Ph.D.; Mgr. Jan Rusz, Ph.D.  
 Vypracoval: Bc. Marek Zboray
 
